@@ -4,6 +4,17 @@ This repository documents a **human-in-the-loop AI agent** designed to help supp
 
 The focus of this project is **decision quality and reasoning**, not automation or production deployment.
 
+## Quick navigation
+
+- 📄 Full workflow guide (PDF): [`docs/workflow-guide-v2.3.pdf`](docs/workflow-guide-v2.3.pdf)
+- 🧠 Agent prompt (copy/paste): [`agent/prompt.md`](agent/prompt.md)
+- 📊 Sample input data: [`data/raw_signals_sample.csv`](data/raw_signals_sample.csv)
+- ✅ Example output: [`data/triage_output_example.csv`](data/triage_output_example.csv)
+- 🧪 Run log (baseline): [`runs/run-001.md`](runs/run-001.md)
+- 🏗 Architecture notes: [`docs/architecture.md`](docs/architecture.md)
+- ⚖️ Design decisions: [`docs/decisions.md`](docs/decisions.md)
+
+
 ## Problem
 
 Support signals arrive from many channels such as email, chat, app feedback, and reviews.
