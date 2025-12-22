@@ -1,6 +1,12 @@
 # AI Support Signal Triage Agent Prompt (v1)
 
-Paste this prompt into a fresh ChatGPT conversation before pasting any data.
+> **Usage**
+>
+> 1. Open a fresh ChatGPT conversation  
+> 2. Paste this entire prompt  
+> 3. Paste a `Raw_Signals` dataset  
+> 4. Run the instruction described in the workflow guide
+
 
 ---
 
