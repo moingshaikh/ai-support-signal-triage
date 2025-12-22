@@ -62,28 +62,23 @@ The agent is intentionally designed as **decision support**, not autonomous auto
 You can reproduce the agent behavior with **no paid tools**:
 
   1. Open a fresh ChatGPT conversation
-  2. Copy the agent prompt from `agent/prompt.md`
-  3. Paste the sample dataset from `data/raw_signals_sample.csv`
+  2. Copy the agent prompt from [`agent/prompt.md`](agent/prompt.md)
+  3. Paste the sample dataset from [`data/raw_signals_sample.csv`](data/raw_signals_sample.csv)
   4. Run the instruction described in the workflow guide
   5. Review the structured output and digest
 
-Full step-by-step instructions are in `docs/workflow-guide-v2.3.pdf`.
+Full step-by-step instructions are in [`docs/workflow-guide-v2.3.pdf`](docs/workflow-guide-v2.3.pdf).
 
-Repository contents
+## Repository contents
 
-`docs/`
-Full workflow guide, architecture notes, and design decisions
+- [`docs/`](docs/) – Full workflow guide, architecture notes, and design decisions  
+- [`agent/`](agent/) – The agent prompt treated as a specification, with a changelog  
+- [`data/`](data/) – Sample inputs and example outputs for reproducibility  
+- [`runs/`](runs/) – Logged agent runs documenting changes, observations, and refinements
 
-`agent/`
-The agent prompt treated as a specification, with a changelog
+## Author
 
-`data/`
-Sample inputs and example outputs for reproducibility
+**Moin Shaikh**  
+Business Analyst & Solutions Consultant  
 
-`runs/`
-Logged agent runs documenting changes, observations, and refinements
-
-Author
-
-Prepared by **[Moin Shaikh](https://www.linkedin.com/in/moingshaikh/)**, Business Analyst & Solutions Consultant
-Date created: 2025-12-18
+**Date created:** 2025-12-18
