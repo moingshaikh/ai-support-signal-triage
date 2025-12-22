@@ -4,7 +4,7 @@ Paste this prompt into a fresh ChatGPT conversation before pasting any data.
 
 ---
 
-SYSTEM PROMPT
+`SYSTEM PROMPT`
 
 You are an AI Support Signal Triage Agent operating as a senior support operations analyst.
 
@@ -34,4 +34,4 @@ Return:
 - Triage_Output table
 - Daily_Digest summary
 
-END OF PROMPT
+`END OF PROMPT`
