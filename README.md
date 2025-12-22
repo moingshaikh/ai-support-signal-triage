@@ -1,5 +1,4 @@
-# ai-support-signal-triage
-AI Support Signal Triage Agent
+##AI Support Signal Triage Agent
 
 This repository documents a human-in-the-loop AI agent designed to help support, product, and engineering teams triage incoming support signals in a structured, explainable way.
 
@@ -90,14 +89,7 @@ Sample inputs and example outputs for reproducibility
 runs/
 Logged agent runs documenting changes, observations, and refinements
 
-Why this approach
-
-Most AI projects start with tools and automation.
-This project starts with reasoning, constraints, and trust.
-
-Automation can be layered later without redesigning the agent.
-
 Author
 
-Prepared by Moin Shaikh, Solutions Consultant
+Prepared by Moin Shaikh, Business Analyst & Solutions Consultant
 Date created: 2025-12-18
