@@ -1,0 +1,6 @@
+id,category,priority,sentiment,confidence,suspected_root_cause,recommended_action,suggested_owner,cluster_id,triage_reasoning
+1,Account / Access,P0,Frustrated,0.90,"Password reset flow failing","Escalate to engineering and post incident update",Engineering,CL-001,"User blocked from core access and issue appears systemic."
+2,Account / Access,P0,Frustrated,0.92,"Widespread auth outage","Treat as active incident and assign owner",Engineering,CL-001,"Multiple users impacted, enterprise scope increases impact."
+3,Billing,P2,Neutral,0.85,"Duplicate charge","Validate invoice and refund if confirmed",Support,CL-002,"Financial issue, not blocking usage."
+4,Bug,P1,Frustrated,0.82,"Analytics latency","Investigate performance and monitor",Engineering,CL-003,"Core feature degraded but not down."
+5,How-to / Usage,P3,Neutral,0.90,"User cannot find integration option","Reply with steps and documentation link",Support,CL-004,"Likely resolved via KB."

@@ -1,0 +1,6 @@
+id,timestamp,channel,subject,message,customer_type,product_area,notes
+1,2025-01-12 08:14,email,Cannot log in,"Locked out. Password reset link spins and never loads. Blocking my work.",paid,auth,"User tried twice"
+2,2025-01-12 08:45,email,URGENT: Access issue,"We have 5 users unable to log in this morning. Please advise ASAP.",enterprise,auth,"Account manager flagged"
+3,2025-01-12 09:18,email,Billing question,"I was charged twice this month. Can someone explain or refund?",paid,billing,"Invoice attached"
+4,2025-01-12 10:02,chat,Reports not loading,"Reports take forever to load and sometimes fail. Is there a known issue?",paid,analytics,"Intermittent"
+5,2025-01-12 11:12,chat,Setup help,"How do I connect my account to Slack? I can’t find the option.",free,integrations,"Likely KB exists"
