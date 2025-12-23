@@ -1,3 +1,7 @@
+![AI Support Signal Triage Agent](assets/ai-support-signal-triage-cover.png)
+
+Turning support signals into prioritized, explainable decisions using AI.
+
 # AI Support Signal Triage Agent
 
 This repository documents a **human-in-the-loop AI agent** designed to help support, product, and engineering teams triage incoming support signals in a structured, explainable way.
