@@ -82,7 +82,7 @@ Full step-by-step instructions are in [`docs/workflow-guide-v2.3.pdf`](docs/work
 
 ## Author
 
-**Moin Shaikh**  
+**[`Moin Shaikh`](https://www.linkedin.com/in/moingshaikh/)**  
 Business Analyst & Solutions Consultant  
 
 **Date created:** 2025-12-18
