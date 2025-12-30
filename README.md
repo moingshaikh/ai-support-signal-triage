@@ -85,6 +85,6 @@ Full step-by-step instructions are in [`docs/workflow-guide-v2.3.pdf`](docs/work
 **[`Moin Shaikh`](https://www.linkedin.com/in/moingshaikh/)**  
 Business Analyst & Solutions Consultant  
 
-**Version: v1.0**
+
 **Date created:** 2025-12-18
 **Date updated:** 2025-12-23
